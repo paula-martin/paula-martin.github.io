@@ -1,5 +1,3 @@
-# paula-martin.github.io
+# Hi! I'm Paula
 
 Hello World!
-
-Using new theme
